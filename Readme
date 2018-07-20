@@ -1,0 +1,25 @@
+-- Install JDK to run selenium server
+-- install node.js
+-- run command - nmp install -g protractor >> to install protractor globally
+-- run command - npm webdriver-manager update
+-- add C:\Users\Zulfaquar\AppData\Roaming\npm to environment variable
+
+
+-- important point - http://slides.com/derekeskens/meet-protractor/#/23
+
+-- describe block can have multiple it block - describe block is high level scenario where it block is an actual test -
+-- each it block is considered as test
+-- describe block can contain multiple describe blocks
+
+--expect can be used to add assertion/validation
+--beforeEach() method -
+
+        it should be inside describe block
+        it will be executed before every method whether it is it or describe block
+
+-- afterEach() method -
+
+         it should be inside describe block
+         it will be executed after every method whether it is it or describe block
+
+
