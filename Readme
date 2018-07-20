@@ -2,7 +2,7 @@
 -- install node.js
 -- run command - nmp install -g protractor >> to install protractor globally
 -- run command - npm webdriver-manager update
--- add C:\Users\Zulfaquar\AppData\Roaming\npm to environment variable
+-- add C:\Users\username\AppData\Roaming\npm to environment variable
 
 
 -- important point - http://slides.com/derekeskens/meet-protractor/#/23
